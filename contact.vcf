@@ -1,11 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Yevgen Savchenko
-N:Savchenko;Yevgen;;;
-TITLE:Director of Investment and Development
-ORG:Terwin Group
-ADR;TYPE=WORK:;;7/11 Khreshchatyk St., office 211;Kyiv;;01001;Ukraine
-TEL;TYPE=CELL:+380676630859
-EMAIL:e.savchenko@terwingroup.com
-PHOTO;VALUE=URL;TYPE=JPEG:https://drive.google.com/uc?export=view&id=1QiG7bT0W_3c0Xof3NO49HFDHPmYWaan4
+FN;CHARSET=UTF-8:Yevgen Savchenko
+N;CHARSET=UTF-8:Savchenko;Yevgen;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:e.savchenko@terwingroup.com
+PHOTO;ENCODING=b;TYPE=JPEG:https://drive.google.com/uc?export=view&id=1QiG7bT0W_3c0Xof3NO49HFDHPmYWaan4
+TEL;TYPE=WORK,VOICE:+380676630859
+ADR;CHARSET=UTF-8;TYPE=WORK:;;7/11 Khreshchatyk St.\, office 211;Kyiv;;01001;Ukraine
+TITLE;CHARSET=UTF-8:Director of Investment and Development
+ORG;CHARSET=UTF-8:Terwin Group
+URL;type=WORK;CHARSET=UTF-8:https://terwin.rivale.org.ua/investicii/
+REV:2024-05-24T11:42:17.264Z
 END:VCARD
